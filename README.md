@@ -17,8 +17,8 @@
 - **Pengulangan Program**: Pilihan untuk menjalankan program lagi atau keluar setelah perhitungan selesai.
 
 <div align="center">
-  <img src="/screenshots/screenshot1.png" width="400" height="300" alt="Tangkapan Layar 1" title="Tangkapan Layar 1">
-  <img src="/screenshots/screenshot2.png" width="400" height="300" alt="Tangkapan Layar 2" title="Tangkapan Layar 2">
+  <img src="Screenshot.png" width="400" height="300" alt="Tangkapan Layar 1" title="Tangkapan Layar 1">
+  <img src="Screenshot1.png" width="400" height="300" alt="Tangkapan Layar 2" title="Tangkapan Layar 2">
 </div>
 
 ## Instalasi
