@@ -32,5 +32,5 @@
 2. Clone repositori ini.
 3. Buka terminal atau command prompt.
 4. Pindah ke direktori repositori.
-5. Kompilasi program: `g++ main.cpp -o AverageScoreApp`.
-6. Jalankan program: `./AverageScoreApp`.
+5. Kompilasi program: `g++ main.cpp -o AverageScoreApp.cpp`.
+6. Jalankan program: `./AverageScoreApp,cpp`.
