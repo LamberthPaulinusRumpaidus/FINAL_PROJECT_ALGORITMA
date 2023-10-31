@@ -18,13 +18,14 @@
 
 <div align="center">
   <img src="Screenshot.png" width="400" height="300" alt="Tangkapan Layar 1" title="Tampilan Menu">
-  <p><i>Tampilan Program 1</i></p>
+  <p><i>Tampilan Menu</i></p>
 </div>
 
 <div align="center">
   <img src="Screenshot1.png" width="400" height="300" alt="Tangkapan Layar 2" title="Tampilan Program">
-  <p><i>Tampilan Program 2</i></p>
+  <p><i>Tampilan Program</i></p>
 </div>
+
 ## Instalasi
 
 1. Pastikan Anda memiliki [compiler C++](https://gcc.gnu.org/install/index.html) terinstal.
