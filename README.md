@@ -17,10 +17,14 @@
 - **Pengulangan Program**: Pilihan untuk menjalankan program lagi atau keluar setelah perhitungan selesai.
 
 <div align="center">
-  <img src="Screenshot.png" width="400" height="300" alt="Tangkapan Layar 1" title="Tangkapan Layar 1">
-  <img src="Screenshot1.png" width="400" height="300" alt="Tangkapan Layar 2" title="Tangkapan Layar 2">
+  <img src="Screenshot.png" width="400" height="300" alt="Tangkapan Layar 1" title="Tampilan Menu">
+  <p><i>Tampilan Program 1</i></p>
 </div>
 
+<div align="center">
+  <img src="Screenshot1.png" width="400" height="300" alt="Tangkapan Layar 2" title="Tampilan Program">
+  <p><i>Tampilan Program 2</i></p>
+</div>
 ## Instalasi
 
 1. Pastikan Anda memiliki [compiler C++](https://gcc.gnu.org/install/index.html) terinstal.
