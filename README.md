@@ -47,7 +47,7 @@
 
 #### [Awaludin](https://github.com/Awlldnn) 23.11.5822
 - Anggota
-- Kontribusi: juga berperan dalam mengembangkan aplikasi ini dengan fokus pada perbaikan dan perbaikan kode, serta membantu dalam pengujian dan pemecahan masalah. Mmemiliki peran penting dalam memastikan kualitas dan keandalan aplikasi.
+- Kontribusi: juga berperan dalam mengembangkan aplikasi ini dengan fokus pada perbaikan dan perbaikan kode, serta membantu dalam pengujian dan pemecahan masalah. Memiliki peran penting dalam memastikan kualitas dan keandalan aplikasi.
 
 #### [Anthomy Pehan Goran](https://github.com/AnthomyPehan) 23.11.5865
 - Anggota
