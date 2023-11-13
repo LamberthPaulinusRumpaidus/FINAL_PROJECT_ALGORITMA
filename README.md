@@ -37,7 +37,7 @@
 
 ### Kontribusi Anggota Tim
 
-#### Anggota 1: [lamberthpaulinusrumpaidus](https://github.com/lamberthpaulinusrumpaidus),23.11.5826
+#### Anggota 1: [Lamberth Paulinus Rumpaidus](https://github.com/lamberthpaulinusrumpaidus) 23.11.5826
 - Ketua
 
 #### Anggota 2: Nama Anggota 2
